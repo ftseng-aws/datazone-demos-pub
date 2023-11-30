@@ -7,7 +7,6 @@ We built a mini demo environment for AWS Datazone for a customer showcase.
 
 This is our demo environment setup involving multiple AWS accounts as well as an Azure account.
 
-![Datazone_demo_setup](https://dwei4f633mwy3.cloudfront.net/datazone-demo-setup.jpg)
 
 ## AWS DataZone Key Concepts
 
@@ -17,7 +16,6 @@ Amazon DataZone is a data management service that makes it faster and easier for
 
 The following are some concepts and key terms used within AWS DataZone:
 
-![Datazone_keyconcepts](https://dwei4f633mwy3.cloudfront.net/Datazone_keyconcepts.png)
 
 ### Domain
 
