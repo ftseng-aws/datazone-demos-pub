@@ -7,6 +7,7 @@ We built a mini demo environment for AWS Datazone for a customer showcase.
 
 This is our demo environment setup involving multiple AWS accounts as well as an Azure account.
 
+![Datazone_demo_setup](https://dwei4f633mwy3.cloudfront.net/datazone-demo-setup.jpg)
 
 ## AWS DataZone Key Concepts
 
@@ -16,6 +17,7 @@ Amazon DataZone is a data management service that makes it faster and easier for
 
 The following are some concepts and key terms used within AWS DataZone:
 
+![Datazone_keyconcepts](https://dwei4f633mwy3.cloudfront.net/Datazone_keyconcepts.png)
 
 ### Domain
 
@@ -72,7 +74,7 @@ In this section, we will demonstrate how to ingest metadata of existing data sou
 
 Our source data is being stored in S3, and we will be using AWS Glue crawler to extract the metadata and data schema. 
 
-![datazonedemo](https://dwei4f633mwy3.cloudfront.net/datazone-demo-part-2-1.gif) 
+![datazonedemo1](https://dwei4f633mwy3.cloudfront.net/datazone-demo-part-2-1.gif) 
 <p align="center">
      <i>S3 as data source</i>
 </p>
