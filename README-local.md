@@ -7,7 +7,7 @@ We built a mini demo environment for AWS Datazone for a customer showcase.
 
 This is our demo environment setup involving multiple AWS accounts as well as an Azure account.
 
-![Datazone_demo_setup](https://dwei4f633mwy3.cloudfront.net/datazone-demo-setup.jpg)
+![Datazone_demo_setup](datazone-demo-setup.jpg)
 
 ## AWS DataZone Key Concepts
 
@@ -17,7 +17,7 @@ Amazon DataZone is a data management service that makes it faster and easier for
 
 The following are some concepts and key terms used within AWS DataZone:
 
-![Datazone_keyconcepts](https://dwei4f633mwy3.cloudfront.net/Datazone_keyconcepts.png)
+![Datazone_keyconcepts](Datazone_keyconcepts.png)
 
 ### Domain
 
@@ -42,7 +42,7 @@ Environments are collections of zero or more configured resources (for example, 
 
 ### Use Case #1 - Single Sign On using Azure AD Federation
 
-[Full Demo](https://dwei4f633mwy3.cloudfront.net/datazone-demo-part-1.mp4)
+[Full Demo](datazone-demo-part-1.mp4)
 
 AWS DataZone integrates with a variety of SSO providers such as AWS Identity Center and Azure AD. 
 

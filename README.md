@@ -7,7 +7,7 @@ We built a mini demo environment for AWS Datazone for a customer showcase.
 
 This is our demo environment setup involving multiple AWS accounts as well as an Azure account.
 
-![Datazone_demo_setup](datazone-demo-setup.jpg)
+![Datazone_demo_setup](https://dwei4f633mwy3.cloudfront.net/datazone-demo-setup.jpg)
 
 ## AWS DataZone Key Concepts
 
@@ -17,7 +17,7 @@ Amazon DataZone is a data management service that makes it faster and easier for
 
 The following are some concepts and key terms used within AWS DataZone:
 
-![Datazone_keyconcepts](Datazone_keyconcepts.png)
+![Datazone_keyconcepts](https://dwei4f633mwy3.cloudfront.net/Datazone_keyconcepts.png)
 
 ### Domain
 
@@ -48,7 +48,7 @@ AWS DataZone integrates with a variety of SSO providers such as AWS Identity Cen
 
 In this demonstration we are integrating with standard Azure AD federation, but integration with Techpass would follow a similar process. Once authentication, AWS DataZone users gets access to the DataZone data portal, which abstracts away the underlying implementation of AWS DataZone and presents a business-friendly interface.
 
-![datazonedemo](datazone-demo-part-1.gif) 
+![datazonedemo](https://dwei4f633mwy3.cloudfront.net/datazone-demo-part-1.gif) 
 <p align="center">
      <i>SSO access via Azure AD Federation to AWS DataZone Data Portal</i>
 </p>
